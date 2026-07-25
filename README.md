@@ -88,12 +88,6 @@ A full-stack web application that allows students to design and visualize dorm r
 
 ---
 
-## 📊 GitHub Stats: Coming Soon!
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
----
-
 ## ✨ Fun Fact
 
 When I’m not working on software or machine learning projects, I’m probably forcing another science victory in Civilization VI.
