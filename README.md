@@ -43,20 +43,12 @@ I am always looking for opportunities to strengthen my technical skills, take in
 
 A social music discovery web application that combines personalized recommendations with friend activity to help users discover new songs.
 
-* Built recommendation feeds using taste profiles, cosine similarity, swipe behavior, and friend-influenced recommendations
-* Integrated Spotify authentication, playlist exporting, fallback media providers, caching, and database security policies
-* Developed and tested features across the frontend, backend, and recommendation pipeline
-
 **Tech Stack:** React, TypeScript, Supabase, PostgreSQL, Spotify API
 **Learnings:** Recommendation systems, full-stack development, database design, caching, and API integration
 
 ### [Ropa – Real-Time Clothing Donation Platform](https://github.com/nmalilay/realHack2Impact)
 
-A mobile platform that improves the clothing donation process through QR-code scanning, route updates, and real-time tracking.
-
-* Collaborated on a full-stack mobile application during a hackathon
-* Implemented features supporting donation tracking and logistics
-* Earned a **Top 3 placement in the Social Good track**
+A mobile platform that earned a **Top 3 placement in the Social Good track** by improving the clothing donation process through QR-code scanning, route updates, and real-time tracking.
 
 **Tech Stack:** React Native, Node.js, MongoDB
 **Learnings:** Mobile development, real-time systems, teamwork, and rapid prototyping
@@ -64,10 +56,6 @@ A mobile platform that improves the clothing donation process through QR-code sc
 ### [Automated Stroke Rehabilitation Assessment]()
 
 A machine learning research project developed with UCLA's Bionics Lab to support automated assessment of upper-limb movement during stroke rehabilitation.
-
-* Trained and evaluated fully connected, convolutional, and recurrent neural networks on movement sequence data
-* Explored transfer learning, ordinal regression, feature engineering, and hyperparameter optimization
-* Worked toward reducing the time and subjectivity involved in clinical rehabilitation assessment
 
 **Tech Stack:** Python, TensorFlow, Keras, NumPy, Pandas, Optuna, Matplotlib
 **Learnings:** Applied machine learning research, time-series modeling, experimentation, and healthcare AI
