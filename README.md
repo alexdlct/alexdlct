@@ -1,16 +1,110 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex!
 
-<!--
-**alexdlct/alexdlct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UCLA with a minor in Statistics & Data Science
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer and Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Break Through Tech AI Fellow, HSF Scholar, and software engineering intern
+
+I enjoy building software and machine learning systems that solve meaningful real-world problems. My interests include backend and full-stack development, applied AI, recommendation systems, and technology that improves healthcare and accessibility.
+
+I am always looking for opportunities to strengthen my technical skills, take initiative, and learn from other engineers. Currently, I am gaining experience with C# and .NET while building infrastructure for AI-powered workflows, developing machine learning projects, and exploring how AI can augment the software engineering process.
+
+---
+
+## 🎯 Featured Project: [Aida – Multilingual Healthcare Scheduling Assistant](YOUR_AIDA_PROJECT_LINK)
+
+**What We Built:** A voice-powered AI assistant that helps non-English-speaking patients navigate healthcare scheduling, communicate appointment needs, and receive translated information.
+
+**My Contributions:** Developed core application features, integrated AI voice and translation capabilities, and helped design a privacy-conscious workflow focused on making healthcare more accessible.
+
+**Tools:** React, Node.js, ElevenLabs, Gemini API, Twilio 
+
+**Impact:** Built during LA Hacks to reduce language barriers that can prevent patients from accessing essential healthcare services.
+
+🔗 **Curious? [View the full project here.](https://github.com/hy0ren/Aida)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C#, C++, JavaScript, TypeScript, R, SQL
+**Machine Learning & Data:** Pandas, NumPy, scikit-learn, TensorFlow, Keras, Optuna, Matplotlib, Seaborn
+**Backend:** .NET, Node.js, Express, REST APIs
+**Frontend:** React, React Native, Vite, HTML, CSS
+**Databases & Infrastructure:** PostgreSQL, Supabase, MongoDB
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Visual Studio
+
+---
+
+## 🚀 Projects
+
+### [Sift – Social Music Discovery Platform](https://github.com/aditya-r123/Sift)
+
+A social music discovery web application that combines personalized recommendations with friend activity to help users discover new songs.
+
+* Built recommendation feeds using taste profiles, cosine similarity, swipe behavior, and friend-influenced recommendations
+* Integrated Spotify authentication, playlist exporting, fallback media providers, caching, and database security policies
+* Developed and tested features across the frontend, backend, and recommendation pipeline
+
+**Tech Stack:** React, TypeScript, Supabase, PostgreSQL, Spotify API
+**Learnings:** Recommendation systems, full-stack development, database design, caching, and API integration
+
+### [Ropa – Real-Time Clothing Donation Platform](https://github.com/nmalilay/realHack2Impact)
+
+A mobile platform that improves the clothing donation process through QR-code scanning, route updates, and real-time tracking.
+
+* Collaborated on a full-stack mobile application during a hackathon
+* Implemented features supporting donation tracking and logistics
+* Earned a **Top 3 placement in the Social Good track**
+
+**Tech Stack:** React Native, Node.js, MongoDB
+**Learnings:** Mobile development, real-time systems, teamwork, and rapid prototyping
+
+### [Automated Stroke Rehabilitation Assessment]()
+
+A machine learning research project developed with UCLA's Bionics Lab to support automated assessment of upper-limb movement during stroke rehabilitation.
+
+* Trained and evaluated fully connected, convolutional, and recurrent neural networks on movement sequence data
+* Explored transfer learning, ordinal regression, feature engineering, and hyperparameter optimization
+* Worked toward reducing the time and subjectivity involved in clinical rehabilitation assessment
+
+**Tech Stack:** Python, TensorFlow, Keras, NumPy, Pandas, Optuna, Matplotlib
+**Learnings:** Applied machine learning research, time-series modeling, experimentation, and healthcare AI
+
+### [UCLADesign – Interactive Dorm Room Designer](https://github.com/chewton2k/UCLADesign)
+
+A full-stack web application that allows students to design and visualize dorm room layouts using an interactive drag-and-drop interface.
+
+**Tech Stack:** React, Vite, Node.js, Express, MongoDB
+**Learnings:** Full-stack architecture, interactive UI development, and database integration
+
+---
+
+## 🌱 What I'm Currently Exploring
+
+* Backend and distributed systems development with C# and .NET
+* AI orchestration and multi-agent workflows
+* Machine learning systems for healthcare and accessibility
+* Recommendation systems and intelligent developer tools
+* Building a mobile app for managing book clubs, tracking reading progress, and coordinating meetings
+* System Design
+
+---
+
+## 📫 How to Reach Me
+
+* **Email:** alexytamanaha@gmail.com
+* **LinkedIn:** [linkedin.com/in/alextamanaha/](https://www.linkedin.com/in/alextamanaha/)
+
+---
+
+## 📊 GitHub Stats: Coming Soon!
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+
+---
+
+## ✨ Fun Fact
+
+When I’m not working on software or machine learning projects, I’m probably forcing another science victory in Civilization VI.
