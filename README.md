@@ -53,9 +53,10 @@ A mobile platform that earned a **Top 3 placement in the Social Good track** by 
 **Tech Stack:** React Native, Node.js, MongoDB
 **Learnings:** Mobile development, real-time systems, teamwork, and rapid prototyping
 
-### [Automated Stroke Rehabilitation Assessment]()
+### Automated Stroke Rehabilitation Assessment
 
 A machine learning research project developed with UCLA's Bionics Lab to support automated assessment of upper-limb movement during stroke rehabilitation.
+🔒 Private repository to protect participant data and unpublished research
 
 **Tech Stack:** Python, TensorFlow, Keras, NumPy, Pandas, Optuna, Matplotlib
 **Learnings:** Applied machine learning research, time-series modeling, experimentation, and healthcare AI
