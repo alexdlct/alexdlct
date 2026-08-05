@@ -90,4 +90,4 @@ A full-stack web application that allows students to design and visualize dorm r
 
 ## ✨ Fun Fact
 
-When I’m not working on software or machine learning projects, I’m probably forcing another science victory in Civilization VI.
+I love strategy games like Civilization VI and city builders (My favorite right now is Timberborn!)
