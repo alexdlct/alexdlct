@@ -12,7 +12,7 @@ I am always looking for opportunities to strengthen my technical skills, take in
 
 ---
 
-## 🎯 Featured Project: [Aida – Multilingual Healthcare Scheduling Assistant](YOUR_AIDA_PROJECT_LINK)
+## 🎯 Featured Project: [Aida – Multilingual Healthcare Scheduling Assistant](https://github.com/aditya-r123/Sift)
 
 **What We Built:** A voice-powered AI assistant that helps non-English-speaking patients navigate healthcare scheduling, communicate appointment needs, and receive translated information.
 
