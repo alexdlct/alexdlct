@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Alex!
+# Hi, I'm Alex!
 
-🎓 Computer Science student at UCLA with a minor in Statistics & Data Science
+Computer Science student at UCLA with a minor in Statistics & Data Science
 
-💻 Aspiring Software Engineer and Machine Learning Engineer
+Aspiring Software Engineer and Machine Learning Engineer
 
-🤖 Break Through Tech AI Fellow, HSF Scholar, and software engineering intern
+Break Through Tech AI Fellow, HSF Scholar, and software engineering intern
 
 I enjoy building software and machine learning systems that solve meaningful real-world problems. My interests include backend and full-stack development, applied AI, recommendation systems, and technology that improves healthcare and accessibility.
 
@@ -12,7 +12,7 @@ I am always looking for opportunities to strengthen my technical skills, take in
 
 ---
 
-## 🎯 Featured Project: [Aida – Multilingual Healthcare Scheduling Assistant](https://github.com/aditya-r123/Sift)
+## Featured Project: [Aida – Multilingual Healthcare Scheduling Assistant](https://github.com/aditya-r123/Sift)
 
 **What We Built:** A voice-powered AI assistant that helps non-English-speaking patients navigate healthcare scheduling, communicate appointment needs, and receive translated information.
 
@@ -26,7 +26,7 @@ I am always looking for opportunities to strengthen my technical skills, take in
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, C#, C++, JavaScript, TypeScript, R, SQL
 **Machine Learning & Data:** Pandas, NumPy, scikit-learn, TensorFlow, Keras, Optuna, Matplotlib, Seaborn
@@ -37,7 +37,7 @@ I am always looking for opportunities to strengthen my technical skills, take in
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [Sift – Social Music Discovery Platform](https://github.com/aditya-r123/Sift)
 
@@ -70,7 +70,7 @@ A full-stack web application that allows students to design and visualize dorm r
 
 ---
 
-## 🌱 What I'm Currently Exploring
+## What I'm Currently Exploring
 
 * Backend and distributed systems development with C# and .NET
 * AI orchestration and multi-agent workflows
@@ -88,6 +88,6 @@ A full-stack web application that allows students to design and visualize dorm r
 
 ---
 
-## ✨ Fun Fact
+## Fun Fact
 
 I love strategy games like Civilization VI and city builders (My favorite right now is Timberborn!)
